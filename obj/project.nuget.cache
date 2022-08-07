@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yb1T+ECgbAZL/Tudl6SQtRtr0nqd3MWmuxXn99UBGcpg2svzrjkhZbf2tXk7c7OCbZuXmBO+6ol2zNjlHPPHPQ==",
+  "success": true,
+  "projectFilePath": "/Users/claycoleman/Desktop/Repos/SelectionStatementExercise/SelectionStatementExercise/SelectionStatementExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/claycoleman/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/claycoleman/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
